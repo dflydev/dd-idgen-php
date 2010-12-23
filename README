@@ -1,0 +1,6 @@
+Dragonfly Development PHP ID Generation Library
+http://redmine.dflydev.com/projects/dd-idgen
+
+
+dd-idgen aims to provide a standard interface for generating unique
+string-based identifiers.

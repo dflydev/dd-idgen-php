@@ -1,0 +1,8 @@
+.buildpath
+.project
+.settings
+._*
+.*.swp
+build
+dist
+tests/*.sq3
